@@ -18,8 +18,8 @@ Explore the power of agentic frameworks to streamline healthcare operations. Wit
 By the end of this session, learners will be able to:
 
 - Deploy [Healthcare Agent Orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator) in MS Teams
-- Update an existing agent in [Healthcare Agent Orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator)
-- Add a new agent to [Healthcare Agent Orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator)
+- Update existing agent in [Healthcare Agent Orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator)
+- Add new agent to [Healthcare Agent Orchestrator](https://github.com/Azure-Samples/healthcare-agent-orchestrator)
 
 ### 💻 Technologies Used
 
@@ -38,6 +38,7 @@ By the end of this session, learners will be able to:
 
 ## Content Owners
 
+- [Ivan Tarapov](https://github.com/ivantarapov)
 - [Frank Tuan](https://github.com/frank-msft)
 
 
