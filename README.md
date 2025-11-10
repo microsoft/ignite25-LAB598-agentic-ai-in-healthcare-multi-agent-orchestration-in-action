@@ -4,7 +4,7 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥Lab598: Agentic AI in Healthcare: Multi-Agent Orchestration in Action
+## 🔥LAB598: Agentic AI in Healthcare: Multi-Agent Orchestration in Action
 
 [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
 [![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
