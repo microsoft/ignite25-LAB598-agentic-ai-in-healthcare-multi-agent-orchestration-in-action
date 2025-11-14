@@ -23,9 +23,10 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1. Semantic Kernel
-1. AI Foundry
-1. MS Teams
+1. [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+1. [Bot Framework SDK](https://github.com/microsoft/botbuilder-python)
+1. [AI Foundry](https://ai.azure.com)
+1. [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 
 
 ### 📚 Resources and Next Steps
